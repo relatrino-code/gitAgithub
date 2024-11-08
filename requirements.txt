@@ -1,0 +1,9 @@
+Python
+SQL
+Excel
+Spark
+Tableau
+Databricks
+GCP
+Azure
+JAVA
